@@ -1,0 +1,4 @@
+Muter
+=====
+
+Global mute
